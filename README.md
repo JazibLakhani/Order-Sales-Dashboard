@@ -26,3 +26,6 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 **Contact:**
 
 For any questions or support, please contact on jaziblakhani4@gmail.com.
+
+![image](https://github.com/JazibLakhani/Order-Sales-Dashboard/assets/163766204/aae2816b-3021-4cfc-b0ac-449d4e66975d)
+
