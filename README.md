@@ -6,11 +6,17 @@ This repository contains a Power BI project for an Order Sales Analysis Dashboar
 **Features:**
 
 **Total Sales:** Displays the overall sales generated over a specified period.
+
 **Total Quantity:** Shows the total quantity of items sold.
+
 **Total Profit:** Provides a view of the overall profit earned.
+
 **Top Categories:** Lists the top-performing categories based on sales revenue.
+
 **Region-wise Sales:** Shows sales data segmented by different regions.
+
 **Segment-wise Sales:** Displays sales data segmented by different business segments.
+
 **Yearly Filter:** Allows users to filter and view sales data by specific years.
 
 **Contribution:**
